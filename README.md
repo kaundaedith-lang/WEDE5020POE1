@@ -1,4 +1,4 @@
-# Nonprofit Organization Website
+# Childrens Hospital Foundation Website
 
 This is a multi-page website for a nonprofit organization, inspired by real nonprofit websites such as [Children’s Hospital Trust](https://www.childrenshospitaltrust.org.za/).
 
