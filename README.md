@@ -44,4 +44,4 @@ nonprofit-website/
 ---
 
 ##  Author
-- Created by [Your Name] for a school project (2025).
+- Created by Edith Kaunda for a school project (2025).
