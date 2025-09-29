@@ -1,0 +1,53 @@
+/*General style*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* 2. Body Styling */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* 3. Header Styling */
+  header {
+    background-color: #004080;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* 4. Navigation Styling */
+  nav {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+  }
+  
+  /* 5. Main Content Styling */
+  main {
+    padding: 20px;
+  }
+
+  /* 6. Section Styling */
+section {
+    margin-bottom: 20px;
+  }
+  
+  
+  /* 7. Footer Styling */
+  footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
