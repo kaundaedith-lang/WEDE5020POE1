@@ -77,6 +77,19 @@
 section {
     margin-bottom: 20px;
   }
+
+  section img {
+    max-width: 100%;     
+    height: auto;       
+    display: block;      
+    margin: 10px auto;  
+    border-radius: 8px; 
+  }
+  
+  section img {
+    width: 300px;
+    height: auto;
+  }
   
   /* Links */
   a {
